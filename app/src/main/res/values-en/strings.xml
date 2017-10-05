@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculate your score</string>
+    <string name="acercaDe">
+        Application developed by:\n
+        \t\t José Daniel Jojoa Insandará\n
+        \t\t University of Nariño\n
+        \t\t 26th of September 2017
+
+
+    </string>
+    <string name="b_acerca_De">About</string>
+    <string name="calcularNota">"Calculate "</string>
+    <string name="daniel">
+        \t\tAplication developed by:\n
+        \t\t José Daniel Jojoa Insandará
+    </string>
+    <string name="error">Enter right values</string>
+    <string name="ingreseNota">Enter your score</string>
+    <string name="notaFinal">Final score</string>
+    <string name="programacion">Advanced Programing</string>
+    <string name="promedio">Average</string>
+    <string name="regresar">Back</string>
+    <string name="robotica">Robotics</string>
+    <string name="sGrafico">Graphic software</string>
+    <string name="seminario">Seminar</string>
+</resources>

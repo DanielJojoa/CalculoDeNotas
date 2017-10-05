@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CalculoDeNotas</string>
+    <string name="ingreseNota">Ingrese su nota</string>
+    <string name="programacion">Progranación Avanzada</string>
+    <string name="notaFinal">Nota Final</string>
+    <string name="robotica">Robótica</string>
+    <string name="seminario">Seminario 2</string>
+    <string name="sGrafico">Software Gráfico</string>
+    <string name="calcularNota">Calcular Promedio</string>
+    <string name="promedio">El promedio del semestre es: </string>
+    <string name="daniel">Aplicación desarrollada por: \n \t \t José Daniel Jojoa</string>
+    <string name="acercaDe">
+        Aplicación desarrollada por : \n
+        \t\t José Daniel Jojoa  Insandará\n
+        \t\t Universidad de Nariño\n
+        \t\t Septiembre 26 2017
+    </string>
+    <string name="regresar">Regresar</string>
+    <string name="b_acerca_De">Acerca de</string>
+    <string name="error">ingrese valores correctos moyor a 0 y menor a 5</string>
+
+</resources>
